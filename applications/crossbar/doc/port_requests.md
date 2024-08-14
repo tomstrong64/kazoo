@@ -63,7 +63,7 @@ A port request can be in one of seven **states**:
 
 #### Port states diagram
 
-![porting state flow](images/port-request-states-flow.svg)
+![porting state flow](./images/port-request-states-flow.svg)
 
 ### Port authority (Port Agent)
 
